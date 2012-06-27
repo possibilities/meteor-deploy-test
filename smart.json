@@ -1,0 +1,13 @@
+{
+  "meteor": {
+    "branch": "devel"
+  },
+  "packages": {
+    "simple-secure": {
+      "git": "https://github.com/possibilities/simple-secure.git"
+    }
+    "demostrap": {
+      "git": "https://github.com/possibilities/meteor-demostrap.git"
+    }
+  }
+}
