@@ -4,8 +4,8 @@
   },
   "packages": {
     "simple-secure": {
-      "git": "https://github.com/possibilities/simple-secure.git"
-    }
+      "git": "https://github.com/possibilities/meteor-simple-secure.git"
+    },
     "demostrap": {
       "git": "https://github.com/possibilities/meteor-demostrap.git"
     }
