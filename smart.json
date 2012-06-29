@@ -6,6 +6,9 @@
     "simple-secure": {
       "git": "https://github.com/possibilities/meteor-simple-secure.git"
     },
+    "test-package": {
+      "git": "https://github.com/possibilities/meteorite-test-package.git"
+    },
     "demostrap": {
       "git": "https://github.com/possibilities/meteor-demostrap.git"
     }
